@@ -62,6 +62,20 @@ xtype: 'titlebar',
 title: 'Impressum'
 },
 {
+title: 'ARSnova Timer',
+iconCls: 'Time',
+styleHtmlContent: true,
+scrollable: true,
+items: {
+docked: 'top',
+xtype: 'titlebar',
+title: 'Luca Spindler'
+},
+html: [
+"folgt"
+].join("")
+},
+{
 html: ['Angaben gemäß § 5 TMG<br> ',
 'Lucas Spindler<br>',
 'Wilhelmstr. 33<br>',
