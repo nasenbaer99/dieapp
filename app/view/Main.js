@@ -23,7 +23,7 @@ Ext.define('HellowWorld.view.Main', {
                 },
 		
                 html: [
-
+"Hall0"
 
 			].join("")
             },
