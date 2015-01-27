@@ -42,7 +42,7 @@ html: [
 '<table>',
 '<tbody><tr>',
 '<td>',
-'<input id="wikipedia" maxlength="255" size="25" name="search" type="text" placeholder="Suche in der Wikipedia">',
+'<input id="wikipedia" maxlength="50" size="25" name="search" type="text" placeholder="Suche in der Wikipedia">',
 '<label for="wikipedia" class="obscure">Wikipedia-Suche</label>',
 '<input value="de" name="hl" type="hidden">',
 '<input type="submit" name="go" value="Artikel">',
